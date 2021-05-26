@@ -1,0 +1,37 @@
+{
+	"name": "wishyoo-svg-packager",
+	"version": "0.1.0",
+	"dependencies": {
+		"2d-polygon-area": "^1.0.0",
+		"@svgdotjs/svg.js": "^3.0.16",
+		"bluebird": "^3.7.2",
+		"concaveman": "^1.2.0",
+		"css": "^3.0.0",
+		"degrees-radians": "^1.0.3",
+		"hull.js": "^1.0.1",
+		"image-data-uri": "^2.0.1",
+		"lodash": "^4.17.21",
+		"paralleljs": "^1.1.0",
+		"pngjs": "^6.0.0",
+		"polybooljs": "^1.2.0",
+		"radians-degrees": "^1.0.0",
+		"random": "^3.0.6",
+		"sat": "^0.9.0",
+		"svg-path-parser": "^1.1.0",
+		"svg-path-properties": "^1.0.11",
+		"svg-pathdata": "^6.0.0",
+		"svg-to-pdfkit": "^0.1.8",
+		"svgdom": "^0.1.8",
+		"svgpath": "^2.3.1",
+		"transformation-matrix": "^2.8.0",
+		"uuid": "^8.3.2"
+	},
+	"devDependencies": {
+		"jest": "^26.6.3",
+		"jest-matcher-deep-close-to": "^2.0.1",
+		"node.extend": "^2.0.2"
+	},
+	"scripts": {
+		"test": "jest"
+	}
+}
